@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Raúl Alejandro Luna Vizcaino
+- **Carrera**: Ing. Informatica
+- **Fecha de entrega**: 15/04/2026
 
 ---
 
