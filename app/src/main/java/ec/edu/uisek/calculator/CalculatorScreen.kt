@@ -64,12 +64,15 @@ fun CalculatorScreen () {
             ),
             singleLine = true
         )
+        CalculatorGrid() { label ->
+            inputText += label
+        }
     }
 }
 
 @Composable
 
-fun CalculatorGrid(onClick: (String) -> Unit, onButtonClick: (String) -> Unit) {
+fun CalculatorGrid(onButtonClick: (String) -> Unit) {
     val buttons = listOf(
         "7", "8", "9", "÷",
         "4", "5", "6", "×",
